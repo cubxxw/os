@@ -4,21 +4,37 @@
 
 [😶‍🌫️我的学习笔记（Github）](https://github.com/3293172751/Block_Chain)
 
+<p align='center'>
+<a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank"><img src="https://img.shields.io/badge/linkedin-xiongxinwei-yellowgreen?logo=linkedin"></a>
+<a href="https://twitter.com/xxw3293172751" target="_blank"><img src="https://img.shields.io/badge/twitter-%40xxw3293172751-informational?logo=twitter"></a>
+<a href="https://www.zhihu.com/people/3293172751" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%93%BE%E5%AD%A6%E8%80%85%E7%A4%BE%E5%8C%BA-blue?logo=zhihu"></a>
+<a href="https://s2.loli.net/2022/07/05/sQHuozItvWg1heA.jpg" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-smile-brightgreen?logo=wechat"></a>
+<a href="https://space.bilibili.com/14089380" target="_blank"><img src="https://img.shields.io/badge/b%E7%AB%99-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-red?logo=bilibili"></a>
+</p>
+<p align='center'>
+<a href="https://weibo.com/u/6248930985" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-critical?style=social&logo=Sina%20Weibo"></a>
+<a href="https://github.com/3293172751" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
+</p>
+
 ---
 
 >   ❤️💕💕关于区块链技术，可以关注我，共同学习更多的区块链技术。博客[http://nsddd.top](http://nsddd.top)
 >
->   <a href="https://wakatime.com/@3293172751/projects/hngzsvjxqc?start=2022-03-30&end=2022-04-05" title="我的区块链代码时长"> <img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/79cf7f10-4f61-42b7-92a8-dfc71cb99f4c.svg"> </a>
 
 ---
 
 # 操作系统
 
-## 为什么要学习 操作系统？
+<p>
+<a href="https://github.com/3293172751/os" target="_blank"><img src="https://img.shields.io/badge/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-os-yellow?logo=github"></a>
+</p>
+## 操作系统OS
 
-> 没有为什么！！！
+> 操作系统是高级工程师最最最重要的课，仓库里面包含操作系统的理论知识、实践知识、扩展知识。
 >
-> 操作系统是高级工程师最最最重要的课。
+> 主要的研究对象：`Linux0.11`
+>
+> 主要的编程语言：`C/C++`、`GO`、`Rust`、`汇编`
 
 + [Go语言实现置换算法🖱️ ](GO实现置换算法/README.md)
 
@@ -28,17 +44,50 @@
 
 + [linux笔记总结🖱️ ](linux/README.md)
 
-**其他文件（当前目录下）**
-
-- 实验复习.pptx
-- 张海 复习.pdf
-- 总结总结.docx
-- 总结总结2.docx
-- 操作系统~~习题(3)(1).pdf
-- 操作系统期末试卷(含答案).pdf
-- 操作系统期末速成课课件.pdf
-
 + [x] [PDF在线地址和下载](https://maifile.cn/dec/d84489405529@doc)
+
+## 项目结构
+
+<details>
+<summary>🔗展开查看</summary>
+<pre><code>
+PS D:\文档\git\计算机操作系统> tree
+卷 Data 的文件夹 PATH 列表
+卷序列号为 3EA4-3AC8
+D:.
+├─<b>GO实现置换算法</b>
+│  └─local-cache
+├─linux
+│  └─markdown
+├─markdown
+│  ├─assets
+│  ├─img
+│  └─总结总结2.files
+├─<b>PPT</b>
+├─实验
+├─总结总结2.files
+├─操作系统
+│  ├─作业
+│  │  ├─周亚金
+│  │  ├─季江民
+│  │  │  ├─hw2020
+│  │  │  ├─test2020
+│  │  │  ├─简答
+│  │  │  └─选择
+│  │  └─申文博
+│  ├─实验
+│  ├─教材
+│  ├─旧课程实验
+│  │  ├─教材
+│  │  ├─试卷
+│  │  └─资料
+│  ├─试卷
+│  └─资料
+├─教材
+├─笔记
+└─试卷
+</pre></code>
+</details>
 
 ## 目录
 
@@ -115,12 +164,15 @@
 ## 操作系统进阶及源码研究
 
 > 需要掌握语言基础和汇编相关知识，Linux和csapp
+>
+> + [x] [Linux的基础知识](https://github.com/3293172751/CS_COURSE/blob/master/linux/README.md)
+> + [x] [汇编语言的学习](https://github.com/3293172751/Block_Chain/blob/master/%E6%B1%87%E7%BC%96/README.md)
 
   1. [引导扇区](markdown/24.md)
-  2. [](markdown/25.md)
-  3. [](markdown/26.md)
-  4. [](markdown/27.md)
-  5. [](markdown/28.md)
+  2. [第25节 操作系统的启动](markdown/25.md)
+  3. [第26节 X86的保护模式和实模式](markdown/26.md)
+  4. [第27节 操作系统接口](markdown/27.md)
+  5. [第28节 多进程图像](markdown/28.md)
   6. [](markdown/29.md)
   7. [](markdown/30.md)
   8. [](markdown/31.md)
